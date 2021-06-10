@@ -1,0 +1,378 @@
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+D:\ESAD_30A\M7\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+C:\Users\Lab2_3\Desktop\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojResolveAssemblyReference.cache
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+D:\Yeasin\R-30 Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojResolveAssemblyReference.cache
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojResolveAssemblyReference.cache
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+E:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojAssemblyReference.cache
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CoreCompileInputs.cache
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CopyComplete
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.InitialCreate.resources
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.GenerateResource.cache
+H:\HabibSir_Last\Habib\ESAD_30A\M6\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.DbSetup.resources
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojAssemblyReference.cache
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.InitialCreate.resources
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.DbSetup.resources
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.GenerateResource.cache
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CoreCompileInputs.cache
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CopyComplete
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+G:\ASP_Project\ASP.NET Project Final R-30\ASP.NET Project Final R-30\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll.config
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\ShopOnline_Project.pdb
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Owin.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\WebGrease.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\System.Web.Providers.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.InitialCreate.resources
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.Migrations.Security.DbSetup.resources
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.csproj.CopyComplete
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.dll
+C:\Users\User\Downloads\ASP.NET Project Final\ShopOnline_Solution\ShopOnline_Project\obj\Debug\ShopOnline_Project.pdb
